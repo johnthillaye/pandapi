@@ -30,6 +30,10 @@ A curated list of REST APIs to build systems in layers.
 
 * [Zoho - Invoice](https://www.zoho.com/invoice/api/v3/)
 
+## Planning & Booking
+
+* [Google Calendar](https://developers.google.com/google-apps/calendar/v3/reference)
+
 ## Social
 
 * [Twitter](https://dev.twitter.com/rest/public)
@@ -76,6 +80,6 @@ A curated list of REST APIs to build systems in layers.
 * For Home
 	* _[Helpling - Household Cleaning]_
 
-## Products
+## eCommerce
 
-* [eBay]
+* [Shopify](https://docs.shopify.com/api)
